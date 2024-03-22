@@ -2,61 +2,61 @@
     "cargoShipDetectedSetting": {
         "image": "cargoship_logo.png",
         "discord": true,
-        "inGame": false,
+        "inGame": true,
         "voice": true
     },
     "cargoShipLeftSetting": {
         "image": "cargoship_logo.png",
         "discord": true,
-        "inGame": false,
-        "voice": true
+        "inGame": true,
+        "voice": false
     },
     "cargoShipEgressSetting": {
         "image": "cargoship_logo.png",
         "discord": true,
-        "inGame": false,
-        "voice": true
+        "inGame": true,
+        "voice": false
     },
     "patrolHelicopterDetectedSetting": {
         "image": "patrol_helicopter_logo.png",
         "discord": true,
-        "inGame": false,
+        "inGame": true,
         "voice": true
     },
     "patrolHelicopterLeftSetting": {
         "image": "patrol_helicopter_logo.png",
         "discord": true,
-        "inGame": false,
-        "voice": true
+        "inGame": true,
+        "voice": false
     },
     "patrolHelicopterDestroyedSetting": {
         "image": "patrol_helicopter_downed_logo.png",
         "discord": true,
-        "inGame": false,
+        "inGame": true,
         "voice": true
     },
     "lockedCrateOilRigUnlockedSetting": {
         "image": "locked_crate_logo.png",
         "discord": true,
-        "inGame": false,
-        "voice": true
+        "inGame": true,
+        "voice": false
     },
     "heavyScientistCalledSetting": {
         "image": "oil_rig_logo.png",
         "discord": true,
-        "inGame": false,
+        "inGame": true,
         "voice": true
     },
     "chinook47DetectedSetting": {
         "image": "chinook_47_logo.png",
         "discord": true,
-        "inGame": false,
-        "voice": true
+        "inGame": true,
+        "voice": false
     },
     "vendingMachineDetectedSetting": {
         "image": "vending_machine_logo.png",
         "discord": true,
-        "inGame": false,
-        "voice": true
+        "inGame": true,
+        "voice": false
     }
 }
